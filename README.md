@@ -1,39 +1,55 @@
-Xolani Ntsibande
+__Xolani Ntsibande__
 
-Retail Commercial Data Analyst
+__Retail Commercial Data Analyst | ALX Data Analytics__
 
-Turning retail sales, margin, and inventory data into actionable business decisions.
+I am a retail professional transitioning into data analytics, combining 4+ years of retail operations experience with structured training through ALX.
 
+My focus is retail commercial performance analysis turning sales, margin, and inventory data into actionable business insights.
 
 ----
 
-_**About Me**_
+🔍___Core Focus Areas___
 
-Retail professional with 4+ years of operational experience and current ALX Data Analytics trainee. I specialize in commercial performance analytics, focusing on revenue growth, margin optimization, and inventory efficiency.
+-Retail Sales Performance Analysis
 
----
+-Margin & Profitability Analytics
 
-Core Competencies
+-Budget vs Actual Variance Analysis
 
--Retail KPI Analysis
+-Inventory Turnover & Stock Optimization
 
--Revenue & Margin Decomposition
+-KPI Dashboard Development
 
--Budget vs Actual Variance
-
--Inventory Turnover Modeling
-
--SQL Reporting
-
--Excel Financial Modeling
-
+-SQL-Based Reporting
 
 ---
 
-Technical Stack
+🛠___Technical Stack___
 
-SQL,
-Excel,
-Python (Foundational),
-Data Cleaning,
+SQL
+
+Excel
+
+Python (Foundational)
+
+Data Cleaning
+
 Dashboard Development
+
+___
+
+🎯 Career Direction
+
+Seeking opportunities in:
+
+Retail Data Analyst
+
+Commercial Analyst
+
+Business Intelligence Analyst
+
+Sales Performance Analyst
+
+FP&A Analyst (Entry-Level)
+
+Open to South Africa and remote global roles.
