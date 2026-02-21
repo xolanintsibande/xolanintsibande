@@ -26,14 +26,10 @@
 
 <h4>🛠Technical Stack</h4>
 
-SQL
-
-Excel
-
-Python (Foundational)
-
-Data Cleaning
-
+SQL,
+Excel,
+Python (Foundational),
+Data Cleaning,
 Dashboard Development
 
 ___
