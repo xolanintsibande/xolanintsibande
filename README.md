@@ -10,7 +10,7 @@ I come from a retail operations background with 4+ years of experience, where I 
 
 Now, I focus on **data analytics**, using tools like SQL, Excel, and Power BI to uncover trends, track KPIs, and support better business decisions.
 
-What makes me different is that I don’t just analyze data — I understand how it impacts **real business performance on the ground**.
+What makes me different is that I don’t just analyze data. I understand how it impacts **real business performance on the ground**.
 
 ---
 
