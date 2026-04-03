@@ -33,34 +33,29 @@ SQL (JOINs, CTEs, Window Functions)
 Excel (Data Cleaning, Analysis)  
 Power BI (Dashboards, Data Visualization)  
 
-**Business Focus:**  
-Retail Analytics  
-Sales Performance Analysis  
-Customer Insights  
-KPI Tracking  
-
-**Other:**  
-Data Storytelling  
-Problem Solving  
+**Business Focus:**
+Retail Analytics
+Sales Performance Analysis
+Customer Insights
+KPI Tracking
 
 ---
 
 ## 📊 Featured Projects
 
-### 🌍 Global Water Access Analysis
-- Analyzed WHO/UNICEF dataset (2020)
-- Found urban access (77.79%) exceeds rural (62.62%) → **15.17% gap**
-- Identified higher reliance on unimproved water in rural areas
-- Built dashboards to communicate insights
-
----
-
 ### 💧 Maji Ndogo Water Infrastructure Analysis (SQL)
-- Analyzed **60,000+ records** on water access
-- Found **43% of citizens rely on shared taps**
-- Identified **120+ minute queue times**
-- Detected data inconsistencies and potential corruption using SQL
-- Built a project tracking system for infrastructure improvements
+
+- Analyzed 60,000 plus records using SQL
+  
+- Identified 43 percent reliance on shared taps serving up to 2000 people per source
+  
+- Measured average queue times above 120 minutes using aggregation queries
+  
+- Detected data inconsistencies by comparing survey and audit datasets
+- 
+- Built SQL logic to flag high error records and support data validation
+  
+- Designed a tracking structure to prioritize infrastructure improvements
 
 ---
 
