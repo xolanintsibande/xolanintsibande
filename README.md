@@ -16,11 +16,13 @@ What makes me different is that I don’t just analyze data. I understand how it
 
 ## 🎯 What I Do
 
-- Analyze sales and customer data to identify growth opportunities  
-- Build dashboards that communicate insights clearly  
-- Clean and transform messy datasets into usable data  
-- Track KPIs and measure business performance  
-- Turn data into actionable recommendations  
+- Analyze sales data to identify revenue opportunities and underperforming products
+  
+- Build dashboards used to track KPIs and monitor store performance
+
+- Clean and structure raw data for reporting and analysis
+  
+- Translate data into actions that improve sales and operations
 
 ---
 
