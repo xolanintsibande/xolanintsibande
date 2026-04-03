@@ -41,7 +41,7 @@ KPI Tracking
 
 ---
 
-## 📊 Featured Projects
+## 📊 Featured Project
 
 ### 💧 Maji Ndogo Water Infrastructure Analysis (SQL)
 
@@ -52,7 +52,7 @@ KPI Tracking
 - Measured average queue times above 120 minutes using aggregation queries
   
 - Detected data inconsistencies by comparing survey and audit datasets
-- 
+  
 - Built SQL logic to flag high error records and support data validation
   
 - Designed a tracking structure to prioritize infrastructure improvements
