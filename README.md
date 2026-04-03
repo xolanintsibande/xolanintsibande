@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Xolani Ntsibande
 
-💡 Retail Data Analyst focused on turning data into decisions that drive revenue, efficiency, and customer insight.
+💡 Retail Data Analyst focused on sales performance, customer behavior, and KPI tracking that drive revenue, efficiency, and customer insight.
 
 ---
 
