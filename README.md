@@ -69,7 +69,7 @@ KPI Tracking
 
 ## 📚 Education & Training
 
-- ALX Data Analytics Programme ( <b> Ongoing</b> )
+- ALX Africa Data Analytics Programme                      ( <b> Ongoing</b> )
 - Data Visualization Trainee Early Remote Internship at Excelerate ( <b>Ongoing</b> )
 - FNB App Academy – Full Stack Development
 - LinkedIn Learning – Data Analytics & Visualization
