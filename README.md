@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I come from a retail operations background with 4+ years of experience, where I worked directly with customers, sales performance, and inventory data.
+I come from a retail operations background with 4+ years of experience, where I work directly with customers, sales performance, and inventory data.
 
 Now, I focus on **data analytics**, using tools like SQL, Excel, and Power BI to uncover trends, track KPIs, and support better business decisions.
 
@@ -69,7 +69,8 @@ KPI Tracking
 
 ## 📚 Education & Training
 
-- ALX Data Analytics Programme (Ongoing)
+- ALX Data Analytics Programme ( <b> Ongoing</b> )
+- Data Visualization Trainee Early Remote Internship at Excelerate ( <b>Ongoing</b> )
 - FNB App Academy – Full Stack Development
 - LinkedIn Learning – Data Analytics & Visualization
 
